@@ -16,11 +16,14 @@ Compact and Efficient: Optimized for performance and compactness, perfect for sm
 
 ### Folder Structure
 
-/EasyEDA_project.zip: A zip archive containing the EasyEDA project files (schematic and PCB).
-/Gerber_DuinoI2C_PCB.zip: A zip archive containing the Gerber files for PCB manufacturing. 
+/EasyEDA_project.zip: A zip archive containing the EasyEDA project files (schematic and PCB), if you need to adjust pcb to your specific needs.
+
+/Gerber_DuinoI2C_PCB.zip: A zip archive containing the Gerber files for PCB manufacturing, if you like it as is.
+#### Very important notice: CHECK IF YOUR COMPONENTS (OR COMPONENTS YOU ARE PLANING TO USE) MATCH FOOTPRINTS ON A PCB BEFORE PLACING A MANUFACTURE ORDER. It is easier to edit pcb slightly then to source a hard-to-find component.
 
 ### Design Inspiration
 
-This PCB design was inspired by the work of [JK-Rolling's DuinoI2C_ESP](https://github.com/JK-Rolling/DuinoI2C_ESP). Their repository provided valuable insights and guidance for the development of this design, especially in terms of utilizing the ESP8266 and the ATTiny85 chips for Duino Coin mining.
+This PCB design was inspired (well, a bit more copied, to be honest) by the work of [JK-Rolling's DuinoI2C_ESP](https://github.com/JK-Rolling/DuinoI2C_ESP). That repository provided valuable insights and guidance for the development of this design, especially in terms of utilizing the **ESP8266** and the **ATTiny85** chips for Duino Coin mining. Also, in that repository, you will find detailed instructions on how to set up your new rig software-wise, along with the needed software, so I highly recommend visiting it.
 
-#### Very important notice: CHECK IF YOUR COMPONENTS (OR COMPONENTS YOU ARE PLANING TO USE) MATCH FOOTPRINTS ON A PCB BEFORE PLACING A MANUFACTURE ORDER. It is easier to edit pcb slightly then to source a hard-to-find component. 
+
+ 
